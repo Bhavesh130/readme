@@ -1,18 +1,16 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://gaurfoundation.vercel.app/)
-<h1 align="center">Hi 👋, I'm HARSHIT GAUR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm BHAVESH G</h1>
+<h3 align="center">HARDWORKING FULLSTACK DEVELOPER</h3>
 <!-- <img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"> -->
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitgaur2205" alt="harshitgaur2205" /></a> </p>
-
-- 🔭 I’m currently working on **Travel Website**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bhavesh130" alt="Bhavesh130" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **harshit.work@hotmail.com**
+- 📫 How to reach me **bhaveshgopakumar@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TL7TcLgSdXWmLhPRzeRcEupmkHgm6qB7/view?usp=drive_link](https://drive.google.com/file/d/1TL7TcLgSdXWmLhPRzeRcEupmkHgm6qB7/view?usp=drive_link)
 
